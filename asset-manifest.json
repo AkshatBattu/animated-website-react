@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/animated-website-react/static/css/main.a4255856.css",
+    "main.js": "/animated-website-react/static/js/main.ee7db44d.js",
+    "static/js/787.00c7b59d.chunk.js": "/animated-website-react/static/js/787.00c7b59d.chunk.js",
+    "static/media/back.mp4": "/animated-website-react/static/media/back.e1bf4a9c8f930a4ac3f9.mp4",
+    "static/media/girl.jpg.jpg": "/animated-website-react/static/media/girl.jpg.2cf3c7cf04a1dbcb1a10.jpg",
+    "static/media/bottle (1).jpg": "/animated-website-react/static/media/bottle (1).a372a4d973f91967f3dc.jpg",
+    "static/media/pinkplant.jpg.jpg": "/animated-website-react/static/media/pinkplant.jpg.aa7007cf44e68e0281b3.jpg",
+    "static/media/pinkgreenplant.jpg.jpg": "/animated-website-react/static/media/pinkgreenplant.jpg.c89425a458da95a433ee.jpg",
+    "static/media/Sea.jpg.jpg": "/animated-website-react/static/media/Sea.jpg.389cfaff3e2f5d7d9450.jpg",
+    "static/media/tree.jpg.jpg": "/animated-website-react/static/media/tree.jpg.bf952aa2bc9aa03afcdd.jpg",
+    "static/media/sky.jpg.jpg": "/animated-website-react/static/media/sky.jpg.7836301a3dfc3a6b8079.jpg",
+    "static/media/bottle2.jpg.jpg": "/animated-website-react/static/media/bottle2.jpg.32d311800a0d97bc1e14.jpg",
+    "static/media/shaljam.jpg.jpg": "/animated-website-react/static/media/shaljam.jpg.d4f8e93ea3c10496ad7b.jpg",
+    "index.html": "/animated-website-react/index.html",
+    "main.a4255856.css.map": "/animated-website-react/static/css/main.a4255856.css.map",
+    "main.ee7db44d.js.map": "/animated-website-react/static/js/main.ee7db44d.js.map",
+    "787.00c7b59d.chunk.js.map": "/animated-website-react/static/js/787.00c7b59d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4255856.css",
+    "static/js/main.ee7db44d.js"
+  ]
+}
